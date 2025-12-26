@@ -1,0 +1,9 @@
+{
+  "name": "My First Picture NFT #1",
+  "description": "This NFT is minted on Sepolia testnet.",
+  "image": "ipfs://bafkreia7lln2vespfzmvxurocb3kr6mrr5ntw55vzdunhxup7im4tsvcbq",
+  "attributes": [
+    { "trait_type": "Mood", "value": "Happy" },
+    { "trait_type": "Level", "value": 1 }
+  ]
+}
